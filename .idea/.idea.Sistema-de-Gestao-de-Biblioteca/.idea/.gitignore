@@ -1,0 +1,10 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.Sistema-de-Gestao-de-Biblioteca.iml
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+# Ignored default folder with query files
+/queries/

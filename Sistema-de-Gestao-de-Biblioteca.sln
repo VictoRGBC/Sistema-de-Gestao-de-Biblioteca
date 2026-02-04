@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema-de-Gestao-de-Biblioteca", "Sistema-de-Gestao-de-Biblioteca\Sistema-de-Gestao-de-Biblioteca.csproj", "{66A6298B-1ACF-4991-8B7F-46BDF0FB369A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66A6298B-1ACF-4991-8B7F-46BDF0FB369A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66A6298B-1ACF-4991-8B7F-46BDF0FB369A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66A6298B-1ACF-4991-8B7F-46BDF0FB369A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66A6298B-1ACF-4991-8B7F-46BDF0FB369A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

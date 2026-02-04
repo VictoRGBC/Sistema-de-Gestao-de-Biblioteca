@@ -1,0 +1,14 @@
+C:\Users\galat\Downloads\Atividade Faculdade\Projetos\Sistema-de-Gest-o-de-Biblioteca\Sistema-de-Gestao-de-Biblioteca\bin\Debug\net9.0\Sistema-de-Gestao-de-Biblioteca.exe
+C:\Users\galat\Downloads\Atividade Faculdade\Projetos\Sistema-de-Gest-o-de-Biblioteca\Sistema-de-Gestao-de-Biblioteca\bin\Debug\net9.0\Sistema-de-Gestao-de-Biblioteca.deps.json
+C:\Users\galat\Downloads\Atividade Faculdade\Projetos\Sistema-de-Gest-o-de-Biblioteca\Sistema-de-Gestao-de-Biblioteca\bin\Debug\net9.0\Sistema-de-Gestao-de-Biblioteca.runtimeconfig.json
+C:\Users\galat\Downloads\Atividade Faculdade\Projetos\Sistema-de-Gest-o-de-Biblioteca\Sistema-de-Gestao-de-Biblioteca\bin\Debug\net9.0\Sistema-de-Gestao-de-Biblioteca.dll
+C:\Users\galat\Downloads\Atividade Faculdade\Projetos\Sistema-de-Gest-o-de-Biblioteca\Sistema-de-Gestao-de-Biblioteca\bin\Debug\net9.0\Sistema-de-Gestao-de-Biblioteca.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\Projetos\Sistema-de-Gest-o-de-Biblioteca\Sistema-de-Gestao-de-Biblioteca\obj\Debug\net9.0\Sistema-de-Gestao-de-Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galat\Downloads\Atividade Faculdade\Projetos\Sistema-de-Gest-o-de-Biblioteca\Sistema-de-Gestao-de-Biblioteca\obj\Debug\net9.0\Sistema-de-Gestao-de-Biblioteca.AssemblyInfoInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\Projetos\Sistema-de-Gest-o-de-Biblioteca\Sistema-de-Gestao-de-Biblioteca\obj\Debug\net9.0\Sistema-de-Gestao-de-Biblioteca.AssemblyInfo.cs
+C:\Users\galat\Downloads\Atividade Faculdade\Projetos\Sistema-de-Gest-o-de-Biblioteca\Sistema-de-Gestao-de-Biblioteca\obj\Debug\net9.0\Sistema-de-Gestao-de-Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\Projetos\Sistema-de-Gest-o-de-Biblioteca\Sistema-de-Gestao-de-Biblioteca\obj\Debug\net9.0\Sistema-de-Gestao-de-Biblioteca.dll
+C:\Users\galat\Downloads\Atividade Faculdade\Projetos\Sistema-de-Gest-o-de-Biblioteca\Sistema-de-Gestao-de-Biblioteca\obj\Debug\net9.0\refint\Sistema-de-Gestao-de-Biblioteca.dll
+C:\Users\galat\Downloads\Atividade Faculdade\Projetos\Sistema-de-Gest-o-de-Biblioteca\Sistema-de-Gestao-de-Biblioteca\obj\Debug\net9.0\Sistema-de-Gestao-de-Biblioteca.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\Projetos\Sistema-de-Gest-o-de-Biblioteca\Sistema-de-Gestao-de-Biblioteca\obj\Debug\net9.0\Sistema-de-Gestao-de-Biblioteca.genruntimeconfig.cache
+C:\Users\galat\Downloads\Atividade Faculdade\Projetos\Sistema-de-Gest-o-de-Biblioteca\Sistema-de-Gestao-de-Biblioteca\obj\Debug\net9.0\ref\Sistema-de-Gestao-de-Biblioteca.dll
