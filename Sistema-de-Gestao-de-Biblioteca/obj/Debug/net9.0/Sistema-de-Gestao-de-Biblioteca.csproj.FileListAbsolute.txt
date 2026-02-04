@@ -12,3 +12,4 @@ C:\Users\galat\Downloads\Atividade Faculdade\Projetos\Sistema-de-Gest-o-de-Bibli
 C:\Users\galat\Downloads\Atividade Faculdade\Projetos\Sistema-de-Gest-o-de-Biblioteca\Sistema-de-Gestao-de-Biblioteca\obj\Debug\net9.0\Sistema-de-Gestao-de-Biblioteca.pdb
 C:\Users\galat\Downloads\Atividade Faculdade\Projetos\Sistema-de-Gest-o-de-Biblioteca\Sistema-de-Gestao-de-Biblioteca\obj\Debug\net9.0\Sistema-de-Gestao-de-Biblioteca.genruntimeconfig.cache
 C:\Users\galat\Downloads\Atividade Faculdade\Projetos\Sistema-de-Gest-o-de-Biblioteca\Sistema-de-Gestao-de-Biblioteca\obj\Debug\net9.0\ref\Sistema-de-Gestao-de-Biblioteca.dll
+C:\Users\galat\Downloads\Atividade Faculdade\Projetos\Sistema-de-Gest-o-de-Biblioteca\Sistema-de-Gestao-de-Biblioteca\obj\Debug\net9.0\Sistema-de-Gestao-de-Biblioteca.sourcelink.json

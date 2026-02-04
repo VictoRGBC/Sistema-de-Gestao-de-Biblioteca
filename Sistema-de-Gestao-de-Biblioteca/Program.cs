@@ -15,6 +15,7 @@ class Sistema
             Console.WriteLine("3. [U] Atualizar Item");
             Console.WriteLine("4. [D] Remover Item");
             Console.WriteLine("5. Realizar Empréstimo");
+            Console.WriteLine("6. Realizar Devolução");
             Console.WriteLine("0. Sair");
             Console.Write("Seleção: ");
 
@@ -60,11 +61,14 @@ class Sistema
         Console.Write("Título: ");
         string titulo = Console.ReadLine();
 
+        Console.WriteLine("Autor: ");
+        string autor = Console.ReadLine();
+
         if (string.IsNullOrWhiteSpace(id) || string.IsNullOrWhiteSpace(titulo))
         {
             Console.WriteLine("[ERRO] ID e Título são obrigatórios.");
             return;
         }
-        bib.CadastrarItem(new Livro(titulo, id, "Autor Desconhecido"));
+        bib.CadastrarItem(new Livro(titulo, id, autor));
     }
 }
